@@ -1,0 +1,14 @@
+\\psf\Home\Downloads\Barcode\QRCodeLib\obj\Debug\QRCodeLib.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\Barcode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+\\psf\Home\Downloads\Barcode\QRCodeLib\obj\Debug\QRCodeLib.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\Barcode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.dll
+\\psf\Home\Downloads\Barcode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.pdb
+\\psf\Home\Downloads\Barcode\QRCodeLib\ThoughtWorks.QRCode.dll
+\\psf\Home\Downloads\Barcode\QRCodeLib\ThoughtWorks.QRCode.pdb
+Y:\Source Code\QRCodeTest\QRCodeLib\obj\Debug\QRCodeLib.csprojResolveAssemblyReference.cache
+Y:\Source Code\QRCodeTest\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+Y:\Source Code\QRCodeTest\QRCodeLib\obj\Debug\QRCodeLib.csproj.GenerateResource.Cache
+Y:\Source Code\QRCodeTest\QRCodeLib\obj\Debug\QRCode.dll
+Y:\Source Code\QRCodeTest\QRCodeLib\obj\Debug\QRCode.pdb
+Y:\Source Code\QRCodeTest\QRCodeLib\QRCode.dll
+Y:\Source Code\QRCodeTest\QRCodeLib\QRCode.pdb

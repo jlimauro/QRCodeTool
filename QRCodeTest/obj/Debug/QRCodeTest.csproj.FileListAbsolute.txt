@@ -1,0 +1,11 @@
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csprojResolveAssemblyReference.cache
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Form1.resources
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Properties.Resources.resources
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.GenerateResource.Cache
+Y:\Source Code\QRCodeTest\QRCodeTest\bin\Debug\QRCode.dll
+Y:\Source Code\QRCodeTest\QRCodeTest\bin\Debug\QRCode.pdb
+Y:\Source Code\QRCodeTest\QRCodeTest\bin\Debug\QRCodeUtility.exe.config
+Y:\Source Code\QRCodeTest\QRCodeTest\bin\Debug\QRCodeUtility.exe
+Y:\Source Code\QRCodeTest\QRCodeTest\bin\Debug\QRCodeUtility.pdb
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeUtility.exe
+Y:\Source Code\QRCodeTest\QRCodeTest\obj\Debug\QRCodeUtility.pdb
